@@ -14,3 +14,6 @@ Testing the Model.
 The built model had a predictive accuracy of 85%, which means predictions would be correct 8.5 out of 10 times.
 
 **Final Comment:** While 85% is a great score considering the dynamic nature and technological changes experienced in the energy sector, however, the score can be bettered with more data or more trained attributes 
+
+Link to my Code:
+https://nbviewer.org/github/Femi10/Energy-Consumption-Prediction-with-Machine-Learning/blob/main/Energy_Consumption_Prediction.ipynb
